@@ -1,0 +1,14 @@
+th 
+{
+    border:2p solid blue
+}
+td
+{
+    border: 2px dotted blue;
+    text-align: center;
+}
+table
+{
+    width: 80%;
+    border-collapse: collapse;
+}
